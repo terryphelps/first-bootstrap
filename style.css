@@ -1,0 +1,56 @@
+h1 {
+  color: silver;
+  height: 5vh;
+  font-size: 4vh;
+  font-weight: 100;
+  text-align: center;
+}
+h2 {
+  color: silver;
+  height: 4vh;
+  font-size: 3vh;
+  font-weight: 100;
+  text-align: center;
+}
+.col-6 {
+  background-color: beige;
+  width: 50vh;
+  text-align: center;
+  vertical-align: center;
+  height: 8vh;
+  border: solid gainsboro;
+  border-width: .1vh;
+}
+.col-sm-6 {
+  background-color: beige;
+  width: 50vh;
+  text-align: center;
+  vertical-align: center;
+  height: 8vh;
+  border: solid gainsboro;
+  border-width: .1vh;
+}
+.col-sm-3 {
+  background-color: beige;
+  width: 50vh;
+  text-align: center;
+  vertical-align: center;
+  height: 8vh;
+  border: solid gainsboro;
+  border-width: .1vh;
+}
+.darker {
+  background-color: rgb(173, 173, 158);
+  width: 50vh;
+  text-align: center;
+  vertical-align: center;
+  height: 8vh;
+  border: solid gainsboro;
+  border-width: .1vh;
+}
+.hr-text {
+  color: silver;
+  font-size: 3vh;
+  font-weight: 100;
+  text-align: center;
+}
